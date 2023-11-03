@@ -1,0 +1,20 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "word_counts",
+        "kind": 5,
+        "importPath": "MapReduce.reducer",
+        "description": "MapReduce.reducer",
+        "peekOfCode": "word_counts = {}\nfor line in sys.stdin:\n    line = line.strip()\n    word, count = line.split('\\t')\n    count = int(count)\n    if word in word_counts:\n        word_counts[word] += count\n        print(word_counts)\n    else:\n        word_counts[word] = count",
+        "detail": "MapReduce.reducer",
+        "documentation": {}
+    }
+]

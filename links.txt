@@ -1,0 +1,14 @@
+drive link to download softwares : https://drive.google.com/drive/u/0/folders/1zhbOI0Rt_s66gnvpRCSRohqJnTTZOYuz
+
+
+
+prac 1 : link for hadoop : https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.2.4/hadoop-3.2.4.tar.gz
+steps (yt) : https://apsaggu.wordpress.com/2023/06/29/installation-of-apache-hadoop-on-windows-11/
+winutils github : https://github.com/selfgrowth/apache-hadoop-3.1.1-winutils/tree/master/bin
+
+
+prac 3 & 4 : link for spark scala : https://www.apache.org/dyn/closer.lua/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3-scala2.13.tgz
+winutils github link : https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe
+
+
+prac 5 : link to download scala ide : https://scala-ide.org/download/sdk.html

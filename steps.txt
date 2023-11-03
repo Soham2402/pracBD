@@ -1,0 +1,10 @@
+Pract1
+
+JAVA_HOME setup in user and system vars
+path to jdk and include bin in user and system vars
+java 8
+
+NOTE: jdk folder shouldnt be in program files
+
+HADOOP_HOME setup in user vars
+path to hadoop and include bin in user and system vars
