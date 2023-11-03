@@ -2,6 +2,18 @@ import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 import org.apache.spark.graphx._
 
+
+
+//run spark-shell and run each line(dont run the object creation and main creation) individually including the imports
+    // val conf = new SparkConf().setAppName("SimpleGraphExample")
+    // val sc = new SparkContext(conf)
+    // val vertices = sc.makeRDD(Array((1L, "Alice"), (2L, "Bob"), (3L, "Charlie")))
+    // val edges = sc.makeRDD(Array(Edge(1L, 2L, "Friend"), Edge(2L, 3L, "Friend")))
+    // val graph = Graph(vertices, edges)
+    // graph.vertices.collect().foreach(println)
+    // graph.edges.collect().foreach(println)
+    // sc.stop()
+
 object SimpleGraphExample {
   def main(args: Array[String]): Unit = {
     // 1. Create a SparkConf object with an app name
